@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626906464236",
+    "project_id": "memo-meditationapp",
+    "storage_bucket": "memo-meditationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626906464236:android:3d5004683d558778e6cac9",
+        "android_client_info": {
+          "package_name": "com.polar.polarsdkdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC086byR5LQRusSyk4YQjZStKarftRv9o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
